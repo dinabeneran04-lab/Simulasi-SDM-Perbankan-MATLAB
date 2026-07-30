@@ -33,3 +33,8 @@ $$
 
 ---
 **Oleh Kelompok 7 - Program Studi Matematika FMIPA UNP** *Dina Rahma Wita (22030087)*
+
+## 👤 Author
+**Dina Rahma Wita**  
+* [LinkedIn](https://www.linkedin.com/in/dina-rahma-wita/)  
+* [Portfolio Website](https://comfortable-trust-262713.framer.app)
